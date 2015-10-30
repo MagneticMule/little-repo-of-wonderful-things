@@ -4,7 +4,7 @@
 
 ## Javascript
 **There is little point in replicating the work undetaken over at *JSBooks*.** The list is long and well illustrated. 
-Sp head over to [JSBooks](http://jsbooks.revolunet.com/) for all your Javascript curiosities.
+So head over to [JSBooks](http://jsbooks.revolunet.com/) for all your Javascript curiosities.
 
 ## MongoDB
 **The Little Book of Mongo** *by Karl Seguin*.
